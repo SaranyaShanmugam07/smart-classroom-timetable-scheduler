@@ -1,0 +1,9 @@
+streamlit
+pandas
+sqlite3
+bcrypt
+opencv-python
+numpy
+pillow
+plotly
+fpdf2
